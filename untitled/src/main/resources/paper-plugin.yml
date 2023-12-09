@@ -1,0 +1,11 @@
+name: DoubleJump
+version: '2.0'
+main: de.eurocity.eu.untitled.DoubleJump
+api-version: '1.20'
+Commands:
+  cookie:
+    description: Öffnet das Cookie Clicker GUI
+
+  cookies:
+    description: Zeigt die Anzahl der gesammelten Cookies
+
